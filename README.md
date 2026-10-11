@@ -2,10 +2,8 @@
 
 My coursework, labs, and projects from the [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) on Coursera.
 
-> **Status:** 🚧 Completed on `08/2026`
-> **Certificate:** [Add your Coursera certificate link here]
-> **IBM Badge:** [Add your Credly badge link here]
-
+> **Status:** Completed on `08/2026`
+> **Certificate:** https://coursera.org/share/e6c3fb6a1de3156ac98371fefa94cd73
 ---
 
 ## About
