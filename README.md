@@ -44,19 +44,15 @@ This repository collects my notebooks, labs, and projects from the program.
 **Goal:** [Describe the problem you solved]
 **Approach:** Data collection, wrangling, EDA, visualization, model development (SVM, decision tree, KNN), and model comparison.
 **Result:** [Best model and accuracy/score]
-**Links:** [Notebook](./10-capstone) · [Report/Slides](#)
 
 ### 🔹 Python Dashboard
 Interactive dashboard built with Pandas, BeautifulSoup, and Plotly.
-**Links:** [Notebook](./05-python-project)
 
 ### 🔹 Data Analysis & Regression
 Cleaned and explored a real-world dataset, then built regression models to predict outcomes.
-**Links:** [Notebook](./07-data-analysis-with-python)
 
 ### 🔹 SQL Analysis
 Queried multiple related tables using joins, subqueries, and views.
-**Links:** [Notebook](./06-databases-and-sql)
 
 ## Repository Structure
 
